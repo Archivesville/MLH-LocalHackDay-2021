@@ -1,4 +1,4 @@
-#Spootify Random Playlist Generator
+# Spotify Random Playlist Generator
 
 This is a python script, if you want to make your own random playlist here are the requirements and steps to follow:
 
