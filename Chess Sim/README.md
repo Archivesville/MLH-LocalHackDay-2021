@@ -1,1 +1,1 @@
-# PyChess
+# Chess Sim
